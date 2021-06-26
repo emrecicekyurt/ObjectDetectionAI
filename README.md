@@ -15,5 +15,5 @@ higher accuracy. This way is one of the most popular manner for detection even i
 The webcam of the PC is used to detect faces, smiles and eyes. You may use the same algorithm to detect something else via Haar Cascade xml files.   
 <p align="center">
   <img src="images/elon.PNG" width="400" title="ss1">
-  
+  <img src="images/carSS.PNG" width="400" title="ss2">
 </p>
