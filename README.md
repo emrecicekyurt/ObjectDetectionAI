@@ -1,4 +1,4 @@
-# Face_Smile_Eye_Detection_AI
+# ObjectDetectionAI
 Real time face, smile and eye detection are done by using Haar Cascade classification. 
 
 ## Face Detector
