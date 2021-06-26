@@ -1,4 +1,4 @@
-# Face_Smile_Eye_Detection_AI
+# ObjectDetectionAI
 Real time face, smile and eye detection are done by using Haar Cascade classification. 
 
 ## Face Detector
@@ -13,3 +13,7 @@ higher accuracy. This way is one of the most popular manner for detection even i
 
 ## Real Time Detections
 The webcam of the PC is used to detect faces, smiles and eyes. You may use the same algorithm to detect something else via Haar Cascade xml files.   
+<p align="center">
+  <img src="images/elon.PNG" width="400" title="ss1">
+  
+</p>
